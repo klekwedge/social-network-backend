@@ -48,7 +48,7 @@
 
 ### Ссылки
 
-- [Ссылка на Backend проект](https://github.com/klekwedge/social-network-frontend)
+- [Ссылка на Backend проект](https://github.com/klekwedge/social-network-backend)
 - [Backend деплой](https://social-network-backend-nbvt.onrender.com/posts)
 
 - [Ссылка на Frontend проект](https://github.com/klekwedge/social-network-frontend)
