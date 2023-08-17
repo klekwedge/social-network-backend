@@ -19,7 +19,7 @@
 
 1. Make a clone of this repository ```git clone https://github.com/klekwedge/social-network-backend.git```
 2. Install all required npm packages with ```npm i```
-3. Run the project with the command ```npm run dev```
+3. Run the project with the command ```npm run start:dev```
 
 ## Overview
 
