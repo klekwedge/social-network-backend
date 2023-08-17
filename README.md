@@ -1,4 +1,6 @@
-# vk-test-backend
+# social-network (vk-test)
+
+**You can also read this README in [English](https://github.com/klekwedge/social-network-backend/blob/main/README.EN.md).**
 
 ## Оглавление
 
@@ -15,7 +17,7 @@
 
 **Для запуска проекта на вашем компьютере должны быть установлены [npm](https://nodejs.org/en/) и [git](https://git-scm.com/downloads)**
 
-1. Сделайте клон этого репозитория ```git clone https://github.com/klekwedge/social-network-backend.git```
+1. Сделайте клон этого репозитория ```git clone https://github.com/klekwedge/social-network-frontend.git``
 2. Установите все необходимые пакеты npm с помощью ```npm i```
 3. Запустите проект командой ```npm run dev```
 
@@ -48,12 +50,11 @@
 
 ### Ссылки
 
+- [Ссылка на Frontend проект](https://github.com/klekwedge/social-network-frontend)
+- [Frontend деплой](https://klekwedge-social-network-frontend.vercel.app/)
+
 - [Ссылка на Backend проект](https://github.com/klekwedge/social-network-backend)
 - [Backend деплой](https://social-network-backend-nbvt.onrender.com/posts)
-
-- [Ссылка на Frontend проект](https://github.com/klekwedge/social-network-frontend)
-- [Frontend деплой](https://social-network-frontend.vercel.app/)
-
 
 ## Мой процесс
 
